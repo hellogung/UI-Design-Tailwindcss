@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+UI design from [Sajon - Canvas Web Header](https://dribbble.com/shots/19490830-Canvas-Web-Header)
 
 ## Available Scripts
 
